@@ -1,0 +1,7 @@
+/home/mark/Desktop/Air Hockey Project/Machine Vision and Control Logic/Tang_Jonathan_Version/build/CMakeFiles/install/strip.dir
+/home/mark/Desktop/Air Hockey Project/Machine Vision and Control Logic/Tang_Jonathan_Version/build/CMakeFiles/edit_cache.dir
+/home/mark/Desktop/Air Hockey Project/Machine Vision and Control Logic/Tang_Jonathan_Version/build/CMakeFiles/list_install_components.dir
+/home/mark/Desktop/Air Hockey Project/Machine Vision and Control Logic/Tang_Jonathan_Version/build/CMakeFiles/install/local.dir
+/home/mark/Desktop/Air Hockey Project/Machine Vision and Control Logic/Tang_Jonathan_Version/build/CMakeFiles/rebuild_cache.dir
+/home/mark/Desktop/Air Hockey Project/Machine Vision and Control Logic/Tang_Jonathan_Version/build/CMakeFiles/cameracode.dir
+/home/mark/Desktop/Air Hockey Project/Machine Vision and Control Logic/Tang_Jonathan_Version/build/CMakeFiles/install.dir
